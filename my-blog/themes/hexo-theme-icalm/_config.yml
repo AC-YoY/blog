@@ -1,14 +1,16 @@
+title: '"但现在，该你们上了"'
+
 # Links on sidebar
 menu:
   Home: /
   Archive: /archives/
-  # Tags: /tags/
-  # Categories: /categories/
-  # About: /about/
+  Tags: /tags/
+#  Categories: /categories/
+#  About: /about/
 
 # Pictures shown on the sidebar
 # Use the absolute URL after generating
-# avatar: /assets/tree_small.png
+avatar: /assets/avatar.bmp
 # sidebar_background: /assets/header.png
 
 rss: /atom.xml
@@ -33,4 +35,4 @@ disqus:
   shortname:
 
 # Miscellaneous
-favicon:
+favicon: /assets/favicon.ico
